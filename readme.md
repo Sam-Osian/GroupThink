@@ -44,7 +44,7 @@ it. Run:
 install.packages("devtools")
 library(devtools)
 
-devtools::install_github("Samuel-Osian-Andrews/GroupThink")
+devtools::install_github("Sam-Osian/GroupThink")
 library(GroupThink)
 ```
 
